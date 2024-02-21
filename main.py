@@ -1,7 +1,8 @@
 print("Introducción a la ingeniería en informática y sistemas")
 print("Docente: Ing. Miguel Matul")
 print("\nListado de estudiantes")
-'''1662624
+'''
+1662624
 1578324
 1526824
 1567624
@@ -21,7 +22,9 @@ print("\nListado de estudiantes")
 1587624
 1675823
 1530324
-1531324
+'''
+print("Cesar Daniel Martinez Montejo1531324")
+'''
 1509224
 1535724
 1563224
@@ -47,4 +50,5 @@ print("\nListado de estudiantes")
 1546124
 1523624
 1542324
-1507524'''
+1507524
+'''
